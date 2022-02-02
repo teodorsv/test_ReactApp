@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-    return <div>Hello XYZ </div>;
+    return <div>Hello XYZXYZ </div>;
 }
 
 export default App;
